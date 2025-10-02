@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Guitar Lessons!</title>
+    Guitar Lessons!
     <link rel="stylesheet" href="style.css">
 </head>
 <h1> Guitar Lessons by Lainey!</h1>
