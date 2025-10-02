@@ -1,5 +1,6 @@
-<html>
+<!DOCTYPE html>
 <h1>WELCOME TO GUITAR LESSONS BY LAINEY!</h1> 
+<link rel="stylesheet" href="style.css">
 <h2>lesson1/song1(Birds of a Feather By Billie Eilish)</h2>
 <p>
 <h3>CHORDS NEEDED</h3>
